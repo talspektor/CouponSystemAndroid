@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137931592082",
+    "project_id": "couponsystem-4d076",
+    "storage_bucket": "couponsystem-4d076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137931592082:android:7b806010a73e408462714b",
+        "android_client_info": {
+          "package_name": "com.talspektor.couponsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137931592082-6t1n7hlbi1a3hfg59t1dd2fs602gk4gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talspektor.couponsystem",
+            "certificate_hash": "81d2811f7b261b3b40e0cf4c5b24b606d247496f"
+          }
+        },
+        {
+          "client_id": "137931592082-5ifg9rl6td0oss1btcfds1cb5dslhnmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnp3qVGBJHidNYNzr4V5v1kAi01PRDKm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137931592082-5ifg9rl6td0oss1btcfds1cb5dslhnmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
